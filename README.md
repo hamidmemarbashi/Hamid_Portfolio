@@ -1,4 +1,4 @@
-# Hamid_Portfolio
+# Hamid Memarbashi
 Data Science Portfolio
 
 ## [Project 1 - HR Analytics Employee Attrition & Performance](https://github.com/hamidmemarbashi/Employee_Attrition/blob/main/Employee_Attrition.ipynb)
