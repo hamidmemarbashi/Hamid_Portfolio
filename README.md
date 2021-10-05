@@ -1,7 +1,7 @@
 # Hamid_Portfolio
 Data Science Portfolio
 
-## [Project 1 - HR Analytics Employee Attrition & Performance] (https://github.com/hamidmemarbashi/Employee_Attrition/blob/main/Employee_Attrition.ipynb)
+[## Project 1 - HR Analytics Employee Attrition & Performance] (https://github.com/hamidmemarbashi/Employee_Attrition/blob/main/Employee_Attrition.ipynb)
 
 The director of human resources is interested in knowing the factors that lead to employee attrition and he wants to see which variables are contributing the most in attrition. His main question is:
 
