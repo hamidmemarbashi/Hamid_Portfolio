@@ -29,11 +29,7 @@ As the house price is a Continuous Variable, in this project we are going to des
 **"Can we predict the house price in the US market?"**
 
 - One unit increase in the Avg. Area Income, is associated with an increase of around $232680 in price.
-
 - One unit increase in the Avg. Area House Age, is associated with an increase of around $163841 in price.
-
 - One unit increase in the Avg. Area Number of Rooms, is associated with an increase of around $121110 in price.
-
 - One unit increase in the Avg. Area Number of Bedrooms, is associated with an increase of around $2893 in price.
-
 - One unit increase in the Area Population, is associated with an increase of around $151252 in price.
